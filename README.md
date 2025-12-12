@@ -155,9 +155,6 @@ Swagger UI
 
 👉 http://127.0.0.1:8000/docs
 
-OpenAPI Specification
-
-👉 http://127.0.0.1:8000/openapi.json
 
 ✔ The application is now running successfully!
 
