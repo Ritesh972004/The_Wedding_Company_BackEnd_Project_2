@@ -5,11 +5,10 @@ Designed for assignments, interviews, real-world backend systems, and scalable S
 ---
 
 ## 📸 Project Screenshot  
-(Add the file `screenshot.png` in the project root before submission)
 
-![Swagger UI](./page.png)
 
 ---
+<img width="1813" height="911" alt="Page" src="https://github.com/user-attachments/assets/fd1cb77a-ff7b-44b2-a9f4-dd848791d7fc" />
 
 # 📝 Overview  
 This backend service supports:
