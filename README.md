@@ -60,35 +60,8 @@ The system follows industry best practices and is suitable for internship assign
 
 # 🏗 High-Level Architecture Diagram  
 
-arduino
-Copy code
-             ┌──────────────────┐
-             │     Client App    │
-             └─────────┬────────┘
-                       │ HTTP API Calls
-                       ▼
-               ┌────────────┐
-               │   FastAPI   │
-               └──────┬─────┘
-                      │ Routers
-                      ▼
-             ┌──────────────────┐
-             │    Services       │
-             └──────┬───────────┘
-                    │ Business Logic
-                    ▼
-           ┌─────────────────┐
-           │   Repository     │
-           └──────┬──────────┘
-                  │ MongoDB Ops
-                  ▼
-           ┌─────────────────┐
-           │    MongoDB       │
-           └──────────────────┘
-yaml
-Copy code
+<img width="583" height="708" alt="High-Level Architecture Diagram" src="https://github.com/user-attachments/assets/61eef665-883e-4961-b35b-95631766a4e5" />
 
----
 
 # 💡 Design Choices  
 
