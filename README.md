@@ -7,7 +7,7 @@ Designed for assignments, interviews, real-world backend systems, and scalable S
 ## 📸 Project Screenshot  
 (Add the file `screenshot.png` in the project root before submission)
 
-![Swagger UI](./screenshot.png)
+![Swagger UI](./page.png)
 
 ---
 
